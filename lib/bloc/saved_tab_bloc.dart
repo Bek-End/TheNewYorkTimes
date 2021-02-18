@@ -1,6 +1,5 @@
 import 'package:NYTimesApp/bloc/news_details_db_bloc.dart';
 import 'package:NYTimesApp/bloc/switch_screen_bloc.dart';
-import 'package:NYTimesApp/bloc/today_tab_bloc.dart';
 import 'package:NYTimesApp/database/database_provider.dart';
 import 'package:NYTimesApp/models/home_news_db_model.dart';
 import 'package:rxdart/rxdart.dart';
